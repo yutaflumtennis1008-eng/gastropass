@@ -1,0 +1,245 @@
+{
+  "room-waiting": {
+    "seed": 1001,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, isometric cutaway room of a modern hospital waiting room with rows of soft chairs, a small table with magazines, potted plant, a patient sitting"
+  },
+  "room-endo": {
+    "seed": 4202,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, isometric cutaway room of a modern hospital endoscopy suite with a patient bed, a white wheeled endoscopy cart with a widescreen monitor on top and a flat white video processor box on its shelf, a black flexible endoscope hanging from a hook on the side of the cart, doctor and nurse in teal scrubs",
+    "via": "hf"
+  },
+  "room-reception": {
+    "seed": 1000,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, isometric cutaway room of a modern hospital reception area with a curved front desk, computer, small plant, clerk at the desk"
+  },
+  "room-cleaning": {
+    "seed": 1003,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, isometric cutaway room of a modern hospital endoscope reprocessing room with stainless sinks, an automated endoscope washer machine, scopes hanging in a drying cabinet"
+  },
+  "room-recovery": {
+    "seed": 1004,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, isometric cutaway room of a modern hospital recovery room with two beds separated by a curtain, vital sign monitors, a nurse checking a patient"
+  },
+  "room-fluoro": {
+    "seed": 1005,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, isometric cutaway room of a modern hospital fluoroscopy room with a C-arm X-ray machine over a patient table, lead apron on a hanger, monitors"
+  },
+  "eq-scope-upper": {
+    "seed": 81,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of a medical flexible gastroscope: a black control handle with two stacked round angulation knobs on its side in the same black as the handle (not teal), two small valve buttons on the front, a small white port, a thin blue ring, a long thin black insertion tube and a black cord to a silver connector, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "room-or": {
+    "seed": 1007,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, isometric cutaway room of a modern hospital operating room with surgical table, ceiling surgical lights, laparoscopic tower with monitor, surgeons in teal gowns"
+  },
+  "room-ward": {
+    "seed": 1006,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, isometric cutaway room of a modern hospital hospital ward room with two patient beds, IV stands, window with soft light, a nurse"
+  },
+  "eq-snare": {
+    "seed": 72,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of an endoscopic polypectomy snare: a white handle with three teal finger rings, a long thin sheath and a thin wire loop at the tip, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-scope-lower": {
+    "seed": 81,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of a medical flexible colonoscope: a black control handle with two stacked round angulation knobs on its side in the same black as the handle (not teal), two small valve buttons on the front, a small white port, a thin blue ring, a long thin black insertion tube and a black cord to a silver connector, the insertion tube very long and coiled in loops, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-magnifier": {
+    "seed": 92,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of an endoscopy video system: a widescreen medical monitor on a stand showing a magnified endoscopic close-up of a tumor surface with an irregular gland duct (pit) pattern of pale ovals of different sizes and fine irregular brown microvessels between them, and below it a flat white video processor box with a round scope socket, a green power ring and a dark touch screen, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-evl": {
+    "seed": 81,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of an endoscopic variceal ligation kit: a green rectangular plastic tray holding eight white rubber O-rings in round green cups with a small hole in the center, a long thin transparent tube in loose loops, a small clear connector at one end and a translucent blue cap at the other end, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-esd": {
+    "seed": 72,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of an electrosurgical generator for ESD: a white unit with two dark displays, round dials and sockets, connected to a thin endoscopic knife with a teal handle and a short needle tip, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-eus": {
+    "seed": 81,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of an endoscopic ultrasound system: a white ultrasound console with a screen showing a fan-shaped grey ultrasound image, a trackball and keys, and an echoendoscope: a black control handle with two stacked round angulation knobs on its side in the same black as the handle (not teal), two small valve buttons on the front, a small white port, a thin blue ring, a long thin black insertion tube and a black cord to a silver connector, with a rounded white ultrasound probe at the tip, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-peg": {
+    "seed": 71,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of a percutaneous endoscopic gastrostomy kit: a soft white feeding tube with a round teal internal bumper at one end, a white external fixation plate, and a Y-shaped feeding connector with teal and orange caps, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-capsule": {
+    "seed": 72,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of a capsule endoscope: a small pill-shaped white and teal capsule with a transparent dome and a tiny camera lens, next to a white data recorder with a dark screen and a grey belt, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-washer": {
+    "seed": 72,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of an automated endoscope washer disinfector: a white cabinet with a transparent lid on top, a basin with a coiled black endoscope inside, a dark control screen and buttons, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-ercp": {
+    "seed": 81,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of an ERCP set: a side-viewing duodenoscope: a black control handle with two stacked round angulation knobs on its side in the same black as the handle (not teal), two small valve buttons on the front, a small white port, a thin blue ring, a long thin black insertion tube and a black cord to a silver connector, with a short metal tip with a side window, and next to it a thin white catheter ending in a small wire stone extraction basket, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-stent": {
+    "seed": 72,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of a set of stents: a metal mesh self-expanding stent shaped like a lattice tube, a straight blue plastic stent with small flaps, and a teal pigtail stent, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-rfa": {
+    "seed": 72,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of a radiofrequency ablation system: a white generator with a dark display and a large teal dial, connected by a cable to a needle electrode with a teal handle and a long thin needle, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "eq-lap": {
+    "seed": 72,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D illustration seen from a slight isometric angle, realistic proportions, rounded matte toy-like materials, white and teal accents, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, no logos of a laparoscopic surgery tower: a white wheeled cart with stacked units (camera control, light source, insufflator) each with a small dark display, a widescreen monitor on top showing a pink surgical view, and a laparoscope with a camera head, keeping exactly the same parts, shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "staff-doctor-upper-resident": {
+    "seed": 1022,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, single cute chibi character standing, full body, front three-quarter view, young fresh resident doctor in a white coat over teal scrubs, eager smile, holding a notebook",
+    "via": "hf"
+  },
+  "staff-doctor-upper-fellow": {
+    "seed": 21,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: the white doctor coat is now longer, reaching the mid-thigh, a stethoscope hangs around the neck, a small teal name badge is clipped to the chest pocket, and the doctor holds a black flexible endoscope with a thin black tube coiled in one hand.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-upper-specialist": {
+    "seed": 62,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: a long crisp white doctor coat reaching the knees, the same teal scrub top and teal long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs, a stethoscope around the neck, a shiny round gold badge pinned on the chest, a teal pen in the chest pocket, and the doctor proudly holds a black flexible endoscope with both hands, and the pose changes. One hand holds a chunky black control grip upright beside the shoulder, with only one flat round black dial on the side of the grip, no bigger than the width of the grip, and two small buttons on its front. A thin black tube comes out of the bottom of the grip, runs down and across the front of the body, and the other hand, held low in front of the belly, grips the tube near its end, with just the short tip sticking out past that hand; the tube between the hands hangs down in a gentle curve, confident smile.",
+    "via": "kontext-edit"
+  },
+  "ext-1": {
+    "seed": 12,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D isometric diorama, rounded matte toy-like materials, white walls with teal accents, mint green ground, bright pastel lighting, soft ambient occlusion, plain off-white background, no text, no letters, no people of a small one-storey endoscopy clinic building with glass entrance doors and a mint canopy, on a mint grass island with a paved sidewalk and a few round trees, keeping exactly the same buildings, windows, trees, paths, layout and camera angle.",
+    "via": "kontext-sketch"
+  },
+  "ext-2": {
+    "seed": 12,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D isometric diorama, rounded matte toy-like materials, white walls with teal accents, mint green ground, bright pastel lighting, soft ambient occlusion, plain off-white background, no text, no letters, no people of a two-storey endoscopy clinic building with a small side annex, glass entrance doors and a mint canopy, a wooden bench, on a mint grass island with a paved sidewalk and round trees, keeping exactly the same buildings, windows, trees, paths, layout and camera angle.",
+    "via": "kontext-sketch"
+  },
+  "ext-3": {
+    "seed": 12,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D isometric diorama, rounded matte toy-like materials, white walls with teal accents, mint green ground, bright pastel lighting, soft ambient occlusion, plain off-white background, no text, no letters, no people of a four-storey endoscopy center building with a rear wing and a low side wing, glass entrance doors and a mint canopy, a bench, on a mint grass island with a paved sidewalk and round trees, keeping exactly the same buildings, windows, trees, paths, layout and camera angle.",
+    "via": "kontext-sketch"
+  },
+  "ext-4": {
+    "seed": 12,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D isometric diorama, rounded matte toy-like materials, white walls with teal accents, mint green ground, bright pastel lighting, soft ambient occlusion, plain off-white background, no text, no letters, no people of a gastroenterology center: a four-storey main building, a tall seven-storey ward tower behind it, low side wings, glass entrance doors and a mint canopy, on a mint grass island with a paved sidewalk and round trees, keeping exactly the same buildings, windows, trees, paths, layout and camera angle.",
+    "via": "kontext-sketch"
+  },
+  "ext-5": {
+    "seed": 12,
+    "prompt": "Turn this flat sketch into a cute soft clay-like 3D isometric diorama, rounded matte toy-like materials, white walls with teal accents, mint green ground, bright pastel lighting, soft ambient occlusion, plain off-white background, no text, no letters, no people of a large gastroenterology hospital complex: a four-storey main building, a tall ward tower with a round grey helipad on its roof, several wings, glass entrance doors and a mint canopy, a white ambulance with a red stripe, on a mint grass island with a paved sidewalk and round trees, keeping exactly the same buildings, windows, trees, paths, layout and camera angle.",
+    "via": "kontext-sketch"
+  },
+  "patient-3": {
+    "seed": 1029,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, single cute chibi character walking to the right, full body, side three-quarter view facing right, young man with black hair in a navy hoodie and blue jeans, with a small mint green backpack",
+    "via": "hf"
+  },
+  "patient-1": {
+    "seed": 1027,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, single cute chibi character walking to the right, full body, side three-quarter view facing right, elderly man with grey hair, beige cardigan and brown trousers, holding a wooden cane",
+    "via": "hf"
+  },
+  "patient-2": {
+    "seed": 1028,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, single cute chibi character walking to the right, full body, side three-quarter view facing right, middle-aged woman with a short brown bob, pink blouse and grey skirt, holding a small handbag",
+    "via": "hf"
+  },
+  "patient-4": {
+    "seed": 1030,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, single cute chibi character walking to the right, full body, side three-quarter view facing right, elderly woman with white hair in a bun, lavender coat, holding a small tote bag",
+    "via": "hf"
+  },
+  "logo-emblem": {
+    "seed": 11,
+    "prompt": "Turn this flat app icon into a cute soft clay-like 3D emblem seen straight from the front: a thick puffy rounded square tile in mint green with a slightly darker mint side, and on it a puffy white clay stomach shape with the same small details, rounded matte toy-like materials, bright pastel lighting, soft ambient occlusion, soft shadow, plain off-white background, no text, keeping exactly the same shapes and layout.",
+    "via": "kontext-sketch"
+  },
+  "staff-nurse-1": {
+    "seed": 1025,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, single cute chibi character standing, full body, front three-quarter view, friendly nurse in teal scrubs and a nurse cap, holding a clipboard",
+    "via": "hf"
+  },
+  "staff-clerk-1": {
+    "seed": 3026,
+    "prompt": "Cute isometric 3D illustration, soft clay-like toy style, rounded shapes, pastel colors, white and teal palette, soft ambient occlusion, mobile game art, plain off-white background, no text, single cute chibi character standing, full body, front three-quarter view, cheerful medical office clerk with short black hair and no hat, navy office blazer and skirt, holding documents",
+    "via": "hf"
+  },
+  "staff-nurse-2": {
+    "seed": 22,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: a stethoscope hangs around the neck, a small silver watch is clipped to the chest, a penlight is in the breast pocket, and the nurse holds a white tablet instead of the clipboard.",
+    "via": "kontext-edit"
+  },
+  "staff-nurse-3": {
+    "seed": 22,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: a navy cardigan worn over the teal scrubs, a shiny round gold badge on the chest, a stethoscope around the neck, a small silver watch clipped to the cardigan, and the nurse holds a neatly coiled black flexible endoscope, confident smile.",
+    "via": "kontext-edit"
+  },
+  "staff-clerk-2": {
+    "seed": 21,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: a white blouse with a small teal neck scarf under the navy blazer, an ID card on a teal lanyard, and the clerk holds a white tablet instead of the papers.",
+    "via": "kontext-edit"
+  },
+  "staff-clerk-3": {
+    "seed": 22,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: a smart navy suit jacket with a small teal neck scarf and a shiny round gold pin, a small headset with a microphone, an ID card on a teal lanyard, and the clerk holds a white tablet and a neat teal folder, confident smile.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-lower-resident": {
+    "seed": 31,
+    "prompt": "Keep exactly the same cute clay-like 3D toy style, the same chibi body proportions, the same pose and framing, the same lighting and the same plain off-white background, full body standing, no text. Replace the character with a completely different person: a young woman resident doctor with long chestnut brown hair tied in a high ponytail with a teal hair tie, big bright eyes, cheerful open smile, a short white doctor coat over a teal scrub top and long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs in teal, holding a small teal notebook.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-liver-resident": {
+    "seed": 31,
+    "prompt": "Keep exactly the same cute clay-like 3D toy style, the same chibi body proportions, the same pose and framing, the same lighting and the same plain off-white background, full body standing, no text. Replace the character with a completely different person: a young man resident doctor with fluffy wavy light brown hair and round thin-framed glasses, gentle calm smile, a short white doctor coat over navy blue scrubs, holding a thick green textbook.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-hbp-resident": {
+    "seed": 31,
+    "prompt": "Keep exactly the same cute clay-like 3D toy style, the same chibi body proportions, the same pose and framing, the same lighting and the same plain off-white background, full body standing, no text. Replace the character with a completely different person: a young woman resident doctor with straight black hair tied up in a neat round bun on top of her head, short bangs, focused determined smile, a short white doctor coat over a purple scrub top and long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs in purple, holding a white clipboard.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-lower-fellow": {
+    "seed": 61,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: the white doctor coat is now longer, reaching the mid-thigh, the same teal scrub top and teal long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs, a stethoscope hangs around the neck, a small teal name badge is clipped to the chest pocket, and she holds a black flexible endoscope: a chunky black control grip held upright in one hand, with two large round black dials stacked on the side of the grip and two small buttons on its front, and from the bottom of the grip a very long thin black tube hangs down in a big loop to the floor.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-lower-specialist": {
+    "seed": 62,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: a long crisp white doctor coat reaching the knees, the same teal scrub top and teal long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs, a stethoscope around the neck, a shiny round gold badge pinned on the chest, a teal pen in the chest pocket, and she proudly holds a black flexible endoscope: a chunky black control grip held upright in one hand, with two large round black dials stacked on the side of the grip and two small buttons on its front, and from the bottom of the grip a very long thin black tube is coiled in two neat loops over her other arm, confident smile.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-liver-fellow": {
+    "seed": 62,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: the white doctor coat is now longer, reaching the mid-thigh, the same navy blue scrub top and navy blue long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs, a stethoscope hangs around the neck, a small teal name badge is clipped to the chest pocket, and he holds a small white tablet showing a grey fan-shaped ultrasound image of the liver in both hands.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-liver-specialist": {
+    "seed": 61,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: a long crisp white doctor coat reaching the knees, the same navy blue scrub top and navy blue long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs, a stethoscope around the neck, a shiny round gold badge pinned on the chest, a teal pen in the chest pocket, and he holds a cute soft reddish-brown clay model of a human liver in one hand and a small white tablet showing a grey fan-shaped ultrasound image of the liver in the other, confident smile.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-hbp-fellow": {
+    "seed": 61,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: the white doctor coat is now longer, reaching the mid-thigh, the same purple scrub top and purple long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs, a stethoscope hangs around the neck, a small teal name badge is clipped to the chest pocket, a teal radiation protection collar around the neck, and she holds a black flexible endoscope with both hands, and the pose changes. One hand holds a chunky black control grip upright beside the shoulder, with only one flat round black dial on the side of the grip, no bigger than the width of the grip, and two small buttons on its front. A thin black tube comes out of the bottom of the grip, runs down and across the front of the body, and the other hand, held low in front of the belly, grips the tube near its end, with just the short tip sticking out past that hand; the tube between the hands hangs down in a gentle curve.",
+    "via": "kontext-edit"
+  },
+  "staff-doctor-hbp-specialist": {
+    "seed": 61,
+    "prompt": "Keep exactly the same character: the same face, the same hairstyle and hair color, the same body proportions, the same cute clay-like 3D toy style, the same lighting and the same plain off-white background, full body standing, no text. Only change the outfit and the items: a long crisp white doctor coat reaching the knees, the same purple scrub top and purple long full-length scrub trousers reaching down to the ankles, no shorts, no bare legs, a stethoscope around the neck, a shiny round gold badge pinned on the chest, a teal pen in the chest pocket, a teal radiation protection collar around the neck, and she proudly holds a black flexible endoscope with both hands, and the pose changes. One hand holds a chunky black control grip upright beside the shoulder, with only one flat round black dial on the side of the grip, no bigger than the width of the grip, and two small buttons on its front. A thin black tube comes out of the bottom of the grip, runs down and across the front of the body, and the other hand, held low in front of the belly, grips the tube near its end, with just the short tip sticking out past that hand; the tube between the hands hangs down in a gentle curve, and the tip of the tube is short and silver, confident smile.",
+    "via": "kontext-edit"
+  }
+}
